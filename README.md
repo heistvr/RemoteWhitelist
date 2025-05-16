@@ -1,5 +1,5 @@
 # RemoteWhitelist
-This script allows you to control the visibility of a VRChat GameObject's children based on a remote whitelist.
+This script allows you to control the visibility of a VRChat GameObject's children based on a remote whitelist which updates automatically every 60 seconds.
 
 Currently supports: 3D Renderers, UI CanvasGroups, Canvases
 The whitelist is stored in a text file, which can be hosted:
